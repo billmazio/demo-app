@@ -38,4 +38,4 @@ Follow these steps to install and set up the **Demo App**:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/demo-app.git
+   git clone https://github.com/billmazio/demo-app.git
