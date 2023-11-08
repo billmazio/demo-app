@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.junit.tutorial.DepartmentTest" tests="31" skipped="1" failures="0" errors="0" timestamp="2023-11-08T16:58:57" hostname="DESKTOP-K5RJE3C" time="0.119">
+  <properties/>
+  <testcase name="Should Test Create Department If APP_MODE is equal to DEV" classname="com.junit.tutorial.DepartmentTest" time="0.013"/>
+  <testcase name="[1] John, Doe, 1234" classname="com.junit.tutorial.DepartmentTest" time="0.018"/>
+  <testcase name="[2] George, Smith, 2134" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="[3] Nick, Jones, 4321" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="[1] 1234" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="[2] 2134" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="[3] 4321" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="Should Not Add Employee if First Name is Null" classname="com.junit.tutorial.DepartmentTest" time="0.002"/>
+  <testcase name="Should Create Department" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="Should Create Department Only On Windows OS" classname="com.junit.tutorial.DepartmentTest" time="0.0"/>
+  <testcase name="Should Not Add Employee if Phone Num Ext is not numeric" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="Should Not Add Employee if Phone Num Ext is Null" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="Should Create Department Only On Linux OS" classname="com.junit.tutorial.DepartmentTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="Should Add Employee" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="Should Not Add Employee if Phone Num Ext length is not equal to 4" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="Should Not Add Employee if Last Name is Null" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="Should Not Add Employee if Already Exists" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="repetition 1 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="repetition 2 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="repetition 3 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="repetition 4 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="repetition 5 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="repetition 6 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.0"/>
+  <testcase name="repetition 7 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.0"/>
+  <testcase name="repetition 8 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.0"/>
+  <testcase name="repetition 9 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.0"/>
+  <testcase name="repetition 10 of 10" classname="com.junit.tutorial.DepartmentTest" time="0.0"/>
+  <testcase name="[1] John, Doe, 1234" classname="com.junit.tutorial.DepartmentTest" time="0.001"/>
+  <testcase name="[2] George, Smith, 2134" classname="com.junit.tutorial.DepartmentTest" time="0.0"/>
+  <testcase name="[3] Nick, Jones, 4321" classname="com.junit.tutorial.DepartmentTest" time="0.0"/>
+  <testcase name="Should Not Add Employee if Phone Num Ext starts with 0" classname="com.junit.tutorial.DepartmentTest" time="0.0"/>
+  <system-out><![CDATA[Executing Before All
+Executing Before Each
+Checking Assumption: APP_MODE is equal to DEV
+Executing Test: shouldTestCreateDepartmentIfAppModeIsDev
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeFromCsvFile
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeFromCsvFile
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeFromCsvFile
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeFromValueSource
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeFromValueSource
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeFromValueSource
+Executing After Each
+Executing Before Each
+Executing Test: shouldNotAddEmployeeIfFirstNameIsNull
+Executing After Each
+Executing Before Each
+Executing Test: shouldCreateDepartment
+Executing After Each
+Executing Before Each
+Executing Test: shouldCreateDepartmentOnWindowsOS
+Executing After Each
+Executing Before Each
+Executing Test: shouldNotAddEmployeeIfPhoneNumExtIsNotNumeric
+Executing After Each
+Executing Before Each
+Executing Test: shouldNotAddEmployeeIfPhoneNumExtIsNull
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployee
+Executing After Each
+Executing Before Each
+Executing Test: shouldNotAddEmployeeIfPhoneNumExtIsNotEqualTo4
+Executing After Each
+Executing Before Each
+Executing Test: shouldNotAddEmployeeIfLastNameIsNull
+Executing After Each
+Executing Before Each
+Executing Test: shouldNotAddEmployeeIfAlreadyExists
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1001
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1002
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1003
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1004
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1005
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1006
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1007
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1008
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1009
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeWithIncrementingPhoneNumExt
+Adding Employee with Phone Num Ext: 1010
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeFromCsvSource
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeFromCsvSource
+Executing After Each
+Executing Before Each
+Executing Test: shouldAddEmployeeFromCsvSource
+Executing After Each
+Executing Before Each
+Executing Test: shouldNotAddEmployeeIfPhoneNumExtStartsWith0
+Executing After Each
+Executing After All
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
