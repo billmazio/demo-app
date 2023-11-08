@@ -1,7 +1,5 @@
 # demo-app
-# Demo App Documentation
-
-Welcome to the documentation for the **Demo App**. This documentation provides an overview of the project, instructions for getting started, usage guidelines, and information on contributing.
+This project is a Java application that demonstrates the usage of JUnit 5 for unit testing. It includes the necessary Gradle build configuration to set up the project and run JUnit 5 tests.
 
 ## Table of Contents
 
@@ -9,33 +7,28 @@ Welcome to the documentation for the **Demo App**. This documentation provides a
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-  - [Features](#features)
-  - [Examples](#examples)
+- [Running Tests](#running-tests)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
 
-The **Demo App** is a Java-based application that provides [briefly describe what the app does and its purpose]. It is designed to [mention any unique selling points or goals of the project].
+The **JUnit Tutorial Project** is a Java-based project that focuses on teaching and demonstrating how to use JUnit 5 for writing and executing unit tests in a Java application. It includes examples of basic unit tests, parameterized tests, and more.
 
 ## Getting Started
 
-This section will guide you through the process of setting up and running the **Demo App**.
+This section provides instructions on setting up and running the project.
 
 ### Prerequisites
 
 Before you begin, ensure you have the following prerequisites installed:
 
 - Java Development Kit (JDK) 1.8 or higher
-- Gradle [optional: if your project uses Gradle]
-- [Additional prerequisites if applicable]
+- Gradle (for building and testing)
 
 ### Installation
 
-Follow these steps to install and set up the **Demo App**:
+Follow these steps to clone and set up the project:
 
 1. Clone the repository to your local machine:
-
-   ```bash
    git clone https://github.com/billmazio/demo-app.git
