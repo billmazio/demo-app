@@ -7,9 +7,7 @@ This project is a Java application that demonstrates the usage of JUnit 5 for un
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
